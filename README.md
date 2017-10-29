@@ -1,7 +1,7 @@
 # strikantup
 This is a fun fighting game
 
-## Developers
+## Programmers
 
 - Lucas
 - Laurens
