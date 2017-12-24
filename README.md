@@ -1,7 +1,7 @@
-# Bobbel Fighting Game
-This is a fun fighting game
+# Bobbel vecht game
+dit is een leuke vecht game
 
-## Programmers
+## Progammeurs
 
 - Lucas
 - Laurens
